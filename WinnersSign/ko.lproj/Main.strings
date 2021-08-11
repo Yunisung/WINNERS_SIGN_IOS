@@ -1,0 +1,1017 @@
+
+/* Class = "UILabel"; text = "신 청 인"; ObjectID = "06c-Za-vks"; */
+"06c-Za-vks.text" = "신 청 인";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0AR-C2-0Mt"; */
+"0AR-C2-0Mt.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "담당자"; ObjectID = "0ZZ-8m-Alq"; */
+"0ZZ-8m-Alq.text" = "담당자";
+
+/* Class = "UIButton"; normalTitle = "카메라 열기"; ObjectID = "0pf-2C-8AJ"; */
+"0pf-2C-8AJ.normalTitle" = "카메라 열기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0qT-b4-d2h"; */
+"0qT-b4-d2h.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "수정하기"; ObjectID = "16V-tZ-BPZ"; */
+"16V-tZ-BPZ.normalTitle" = "수정하기";
+
+/* Class = "UITextField"; placeholder = "비밀번호 확인"; ObjectID = "1M9-3L-xte"; */
+"1M9-3L-xte.placeholder" = "비밀번호 확인";
+
+/* Class = "UILabel"; text = "정산계좌 정보"; ObjectID = "1Uq-iQ-wFz"; */
+"1Uq-iQ-wFz.text" = "정산계좌 정보";
+
+/* Class = "UITextField"; placeholder = "이름"; ObjectID = "1kr-zD-a71"; */
+"1kr-zD-a71.placeholder" = "이름";
+
+/* Class = "UILabel"; text = "기본주소"; ObjectID = "1pz-51-mGj"; */
+"1pz-51-mGj.text" = "기본주소";
+
+/* Class = "UINavigationItem"; title = "[개인] 계약서 작성"; ObjectID = "1uC-b4-Mht"; */
+"1uC-b4-Mht.title" = "[개인] 계약서 작성";
+
+/* Class = "UIButton"; normalTitle = "사진첩 열기"; ObjectID = "23o-Be-s0n"; */
+"23o-Be-s0n.normalTitle" = "사진첩 열기";
+
+/* Class = "UILabel"; text = "신분증"; ObjectID = "2Ek-Is-Ync"; */
+"2Ek-Is-Ync.text" = "신분증";
+
+/* Class = "UILabel"; text = "님 "; ObjectID = "2NS-lS-TPz"; */
+"2NS-lS-TPz.text" = "님 ";
+
+/* Class = "UILabel"; text = "기본주소"; ObjectID = "2eX-kQ-Epo"; */
+"2eX-kQ-Epo.text" = "기본주소";
+
+/* Class = "UILabel"; text = "가맹점 기본 정보"; ObjectID = "2rw-y0-fYW"; */
+"2rw-y0-fYW.text" = "가맹점 기본 정보";
+
+/* Class = "UILabel"; text = "계좌번호"; ObjectID = "2tl-d8-jHI"; */
+"2tl-d8-jHI.text" = "계좌번호";
+
+/* Class = "UILabel"; text = "아이디"; ObjectID = "2wd-co-ZZE"; */
+"2wd-co-ZZE.text" = "아이디";
+
+/* Class = "UILabel"; text = "대표자 생년월일"; ObjectID = "2xg-iA-Sf3"; */
+"2xg-iA-Sf3.text" = "대표자 생년월일";
+
+/* Class = "UILabel"; text = "세금계산서(E-mail)"; ObjectID = "39q-fd-6St"; */
+"39q-fd-6St.text" = "세금계산서(E-mail)";
+
+/* Class = "UITextField"; placeholder = "아이디(4~12자 이내)"; ObjectID = "3Hp-qz-jZ1"; */
+"3Hp-qz-jZ1.placeholder" = "아이디(4~12자 이내)";
+
+/* Class = "UILabel"; text = "사업장주소(우편번호)"; ObjectID = "3hw-Uj-acY"; */
+"3hw-Uj-acY.text" = "사업장주소(우편번호)";
+
+/* Class = "UITextField"; placeholder = "비밀번호"; ObjectID = "3oM-lw-oR8"; */
+"3oM-lw-oR8.placeholder" = "비밀번호";
+
+/* Class = "UITextField"; placeholder = "담당자를 입력해주세요"; ObjectID = "3qV-RY-dac"; */
+"3qV-RY-dac.placeholder" = "담당자를 입력해주세요";
+
+/* Class = "UILabel"; text = "대표자 생년월일"; ObjectID = "4Fn-rP-k10"; */
+"4Fn-rP-k10.text" = "대표자 생년월일";
+
+/* Class = "UILabel"; text = "사업자 등록번호"; ObjectID = "4Ze-Yg-C71"; */
+"4Ze-Yg-C71.text" = "사업자 등록번호";
+
+/* Class = "UINavigationItem"; title = "아이디 찾기"; ObjectID = "4r4-Gx-F6U"; */
+"4r4-Gx-F6U.title" = "아이디 찾기";
+
+/* Class = "UITextField"; placeholder = "인증번호 입력"; ObjectID = "50Z-MW-XA0"; */
+"50Z-MW-XA0.placeholder" = "인증번호 입력";
+
+/* Class = "UILabel"; text = "정산계좌정보"; ObjectID = "52m-bf-7JR"; */
+"52m-bf-7JR.text" = "정산계좌정보";
+
+/* Class = "UILabel"; text = "계약서 작성을 위해서는 로그인이 필요합니다"; ObjectID = "55R-2f-yBS"; */
+"55R-2f-yBS.text" = "계약서 작성을 위해서는 로그인이 필요합니다";
+
+/* Class = "UITextField"; placeholder = "예금주"; ObjectID = "56j-u7-njB"; */
+"56j-u7-njB.placeholder" = "예금주";
+
+/* Class = "UIButton"; normalTitle = "카메라 열기"; ObjectID = "5K9-9C-IUE"; */
+"5K9-9C-IUE.normalTitle" = "카메라 열기";
+
+/* Class = "UIViewController"; title = "AgreeWebViewController"; ObjectID = "5QF-Tr-4EV"; */
+"5QF-Tr-4EV.title" = "AgreeWebViewController";
+
+/* Class = "UITextField"; placeholder = "대표번호(-없이 입력)"; ObjectID = "67V-rL-Iw7"; */
+"67V-rL-Iw7.placeholder" = "대표번호(-없이 입력)";
+
+/* Class = "UIButton"; normalTitle = "비밀번호 찾기"; ObjectID = "6GU-3c-K12"; */
+"6GU-3c-K12.normalTitle" = "비밀번호 찾기";
+
+/* Class = "UILabel"; text = "성명"; ObjectID = "6Ju-3y-Wp6"; */
+"6Ju-3y-Wp6.text" = "성명";
+
+/* Class = "UITextField"; placeholder = "대표자 생년월일 예)19960304"; ObjectID = "6XE-KP-5fU"; */
+"6XE-KP-5fU.placeholder" = "대표자 생년월일 예)19960304";
+
+/* Class = "UILabel"; text = "서비스 이용 수수료"; ObjectID = "6aO-Rw-xHb"; */
+"6aO-Rw-xHb.text" = "서비스 이용 수수료";
+
+/* Class = "UILabel"; text = "서비스 이용 수수료"; ObjectID = "6eE-jQ-vfD"; */
+"6eE-jQ-vfD.text" = "서비스 이용 수수료";
+
+/* Class = "UILabel"; text = "신분증"; ObjectID = "6lx-3q-aTk"; */
+"6lx-3q-aTk.text" = "신분증";
+
+/* Class = "UILabel"; text = "사업장주소(우편번호)"; ObjectID = "6q4-2B-4vE"; */
+"6q4-2B-4vE.text" = "사업장주소(우편번호)";
+
+/* Class = "UILabel"; text = "서비스 이용 수수료"; ObjectID = "6ro-ec-y8p"; */
+"6ro-ec-y8p.text" = "서비스 이용 수수료";
+
+/* Class = "UINavigationItem"; title = "[사업자] 계약서 작성"; ObjectID = "6uq-nA-bZK"; */
+"6uq-nA-bZK.title" = "[사업자] 계약서 작성";
+
+/* Class = "UILabel"; text = "성명"; ObjectID = "73w-3D-HNF"; */
+"73w-3D-HNF.text" = "성명";
+
+/* Class = "UILabel"; text = "첨부서류"; ObjectID = "749-cL-cmF"; */
+"749-cL-cmF.text" = "첨부서류";
+
+/* Class = "UILabel"; text = "계좌번호"; ObjectID = "7As-ae-S3z"; */
+"7As-ae-S3z.text" = "계좌번호";
+
+/* Class = "UILabel"; text = "통장사본"; ObjectID = "7MP-W8-NJ1"; */
+"7MP-W8-NJ1.text" = "통장사본";
+
+/* Class = "UITextField"; placeholder = "휴대폰번호(-없이 입력)"; ObjectID = "7gK-E5-oHE"; */
+"7gK-E5-oHE.placeholder" = "휴대폰번호(-없이 입력)";
+
+/* Class = "UITextView"; text = "※ 본 가맹점은 여신전문금융업법 제19조의 규약을 준수합니다. ※ 본 계약에 의거하여 발생된 매출의 신고 및 납세의무는 가맹점(신청인)에게 있으며 신청서 작성내용 및 이용약관을 숙지하고, 가입을 신청합니다."; ObjectID = "8b0-V1-j9T"; */
+"8b0-V1-j9T.text" = "※ 본 가맹점은 여신전문금융업법 제19조의 규약을 준수합니다. ※ 본 계약에 의거하여 발생된 매출의 신고 및 납세의무는 가맹점(신청인)에게 있으며 신청서 작성내용 및 이용약관을 숙지하고, 가입을 신청합니다.";
+
+/* Class = "UITextField"; placeholder = "서명이 필요합니다"; ObjectID = "8tL-pO-v3d"; */
+"8tL-pO-v3d.placeholder" = "서명이 필요합니다";
+
+/* Class = "UITextView"; text = "※ 본 서비스는 여신전문금융업법 제 19조에 의거 결제대행업체에서 제공되는 전자지불대행서비스이며, 본계약으로 발생된 매출은 개인 간 거래 신청자(을)에게 매출 신고 및 납세의 의무가 있습니다.   ※ 개인 간 거래 신청자(을)는 본 서비스를 이용하여 매출누락 등 조세법 위반 시 위 계약은 자동 해지되며, 전표 유통, 현금유통, 카드깡 등 불법적으로 사용시 모든 손해배상 및 민 형사상의 책임이 있습니다."; ObjectID = "8z9-Kr-F84"; */
+"8z9-Kr-F84.text" = "※ 본 서비스는 여신전문금융업법 제 19조에 의거 결제대행업체에서 제공되는 전자지불대행서비스이며, 본계약으로 발생된 매출은 개인 간 거래 신청자(을)에게 매출 신고 및 납세의 의무가 있습니다.   ※ 개인 간 거래 신청자(을)는 본 서비스를 이용하여 매출누락 등 조세법 위반 시 위 계약은 자동 해지되며, 전표 유통, 현금유통, 카드깡 등 불법적으로 사용시 모든 손해배상 및 민 형사상의 책임이 있습니다.";
+
+/* Class = "UIButton"; normalTitle = "비밀번호 찾기"; ObjectID = "8zh-fA-fN5"; */
+"8zh-fA-fN5.normalTitle" = "비밀번호 찾기";
+
+/* Class = "UILabel"; text = "은행명"; ObjectID = "94P-93-GEB"; */
+"94P-93-GEB.text" = "은행명";
+
+/* Class = "UILabel"; text = "가맹점/개인정보 동의"; ObjectID = "9Tp-hs-MhU"; */
+"9Tp-hs-MhU.text" = "가맹점/개인정보 동의";
+
+/* Class = "UINavigationItem"; title = "비밀번호 변경"; ObjectID = "9VR-fN-4sl"; */
+"9VR-fN-4sl.title" = "비밀번호 변경";
+
+/* Class = "UITextField"; placeholder = "인증번호 입력"; ObjectID = "9pv-vs-zE2"; */
+"9pv-vs-zE2.placeholder" = "인증번호 입력";
+
+/* Class = "UITextField"; placeholder = "예금주"; ObjectID = "9xl-1h-Bcp"; */
+"9xl-1h-Bcp.placeholder" = "예금주";
+
+/* Class = "UILabel"; text = "이용약관 동의"; ObjectID = "ADx-NG-rtK"; */
+"ADx-NG-rtK.text" = "이용약관 동의";
+
+/* Class = "UILabel"; text = "회원정보 수정이 완료되었습니다"; ObjectID = "Alf-X8-zK0"; */
+"Alf-X8-zK0.text" = "회원정보 수정이 완료되었습니다";
+
+/* Class = "UILabel"; text = "은행명"; ObjectID = "B9p-zB-bCV"; */
+"B9p-zB-bCV.text" = "은행명";
+
+/* Class = "UITextField"; placeholder = "사업장 연락처(-없이 입력)"; ObjectID = "BF4-KB-tYm"; */
+"BF4-KB-tYm.placeholder" = "사업장 연락처(-없이 입력)";
+
+/* Class = "UITextField"; placeholder = "새 비밀번호 (4~12자 이내)"; ObjectID = "BL4-rt-TI1"; */
+"BL4-rt-TI1.placeholder" = "새 비밀번호 (4~12자 이내)";
+
+/* Class = "UITextField"; placeholder = "이름"; ObjectID = "BO3-Qy-N99"; */
+"BO3-Qy-N99.placeholder" = "이름";
+
+/* Class = "UINavigationItem"; title = "회원가입"; ObjectID = "BS2-fR-cfR"; */
+"BS2-fR-cfR.title" = "회원가입";
+
+/* Class = "UILabel"; text = "비밀번호가 기억나지 않으세요?"; ObjectID = "BcG-4x-Ndm"; */
+"BcG-4x-Ndm.text" = "비밀번호가 기억나지 않으세요?";
+
+/* Class = "UILabel"; text = "대표자 연락처"; ObjectID = "BdH-Gl-On4"; */
+"BdH-Gl-On4.text" = "대표자 연락처";
+
+/* Class = "UINavigationItem"; title = "Winners Sign"; ObjectID = "C0b-DV-QTU"; */
+"C0b-DV-QTU.title" = "Winners Sign";
+
+/* Class = "UINavigationItem"; title = "[개인] 계약서 작성"; ObjectID = "CVE-bz-j8U"; */
+"CVE-bz-j8U.title" = "[개인] 계약서 작성";
+
+/* Class = "UILabel"; text = "신청인"; ObjectID = "Dij-Ig-Z2Y"; */
+"Dij-Ig-Z2Y.text" = "신청인";
+
+/* Class = "UILabel"; text = "통장사본 첨부"; ObjectID = "DnO-4e-bui"; */
+"DnO-4e-bui.text" = "통장사본 첨부";
+
+/* Class = "UILabel"; text = "결제수단"; ObjectID = "EML-hO-PKJ"; */
+"EML-hO-PKJ.text" = "결제수단";
+
+/* Class = "UILabel"; text = "연락처"; ObjectID = "EMz-Zr-ZqO"; */
+"EMz-Zr-ZqO.text" = "연락처";
+
+/* Class = "UILabel"; text = "아이디"; ObjectID = "ESn-AV-eZq"; */
+"ESn-AV-eZq.text" = "아이디";
+
+/* Class = "UILabel"; text = "사업자 등록번호"; ObjectID = "F6f-qj-3e4"; */
+"F6f-qj-3e4.text" = "사업자 등록번호";
+
+/* Class = "UILabel"; text = "회사명"; ObjectID = "FDe-y9-dyr"; */
+"FDe-y9-dyr.text" = "회사명";
+
+/* Class = "UILabel"; text = "계약서를 확인하시겠습니까?"; ObjectID = "FPB-YJ-tCg"; */
+"FPB-YJ-tCg.text" = "계약서를 확인하시겠습니까?";
+
+/* Class = "UILabel"; text = "[가맹점/개인정보 수집, 이용에 관한 사항]"; ObjectID = "FYy-8H-4be"; */
+"FYy-8H-4be.text" = "[가맹점/개인정보 수집, 이용에 관한 사항]";
+
+/* Class = "UITextField"; placeholder = "주민등록번호(-없이 입력)"; ObjectID = "FmK-vD-90h"; */
+"FmK-vD-90h.placeholder" = "주민등록번호(-없이 입력)";
+
+/* Class = "UITextView"; text = "※ 본 서비스는 여신전문금융업법 제 19조에 의거 결제대행업체에서 제공되는 전자지불대행서비스이며, 본계약으로 발생된 매출은 개인 간 거래 신청자(을)에게 매출 신고 및 납세의 의무가 있습니다.   ※ 개인 간 거래 신청자(을)는 본 서비스를 이용하여 매출누락 등 조세법 위반 시 위 계약은 자동 해지되며, 전표 유통, 현금유통, 카드깡 등 불법적으로 사용시 모든 손해배상 및 민 형사상의 책임이 있습니다."; ObjectID = "GSR-FH-DIq"; */
+"GSR-FH-DIq.text" = "※ 본 서비스는 여신전문금융업법 제 19조에 의거 결제대행업체에서 제공되는 전자지불대행서비스이며, 본계약으로 발생된 매출은 개인 간 거래 신청자(을)에게 매출 신고 및 납세의 의무가 있습니다.   ※ 개인 간 거래 신청자(을)는 본 서비스를 이용하여 매출누락 등 조세법 위반 시 위 계약은 자동 해지되며, 전표 유통, 현금유통, 카드깡 등 불법적으로 사용시 모든 손해배상 및 민 형사상의 책임이 있습니다.";
+
+/* Class = "UIButton"; normalTitle = "인증번호 전송"; ObjectID = "Gmf-dv-nim"; */
+"Gmf-dv-nim.normalTitle" = "인증번호 전송";
+
+/* Class = "UITextField"; placeholder = "담당자를 입력해주세요"; ObjectID = "GoD-2A-dxf"; */
+"GoD-2A-dxf.placeholder" = "담당자를 입력해주세요";
+
+/* Class = "UILabel"; text = "개인정보 동의"; ObjectID = "GrN-1W-Y3E"; */
+"GrN-1W-Y3E.text" = "개인정보 동의";
+
+/* Class = "UINavigationItem"; title = "회원가입"; ObjectID = "GyF-oc-aYF"; */
+"GyF-oc-aYF.title" = "회원가입";
+
+/* Class = "UIButton"; normalTitle = "회원가입"; ObjectID = "Gyi-N4-X0Y"; */
+"Gyi-N4-X0Y.normalTitle" = "회원가입";
+
+/* Class = "UITextField"; placeholder = "상호명"; ObjectID = "Hal-Cc-W0h"; */
+"Hal-Cc-W0h.placeholder" = "상호명";
+
+/* Class = "UITextView"; text = "※ 상기 정산계좌가 본인의 개인상 사정으로 위임 계좌일 경우 이와 관련한  세금을 책임질것을 확약하며, 본 신청서를 제출합니다.  (상기 계좌로 본인의 인건비 및 각종 수당을 지급하여 주시기를 신청합니다.)"; ObjectID = "Hjt-Uo-JCa"; */
+"Hjt-Uo-JCa.text" = "※ 상기 정산계좌가 본인의 개인상 사정으로 위임 계좌일 경우 이와 관련한  세금을 책임질것을 확약하며, 본 신청서를 제출합니다.  (상기 계좌로 본인의 인건비 및 각종 수당을 지급하여 주시기를 신청합니다.)";
+
+/* Class = "UILabel"; text = "비밀번호 변경 완료"; ObjectID = "HkD-ct-mCp"; */
+"HkD-ct-mCp.text" = "비밀번호 변경 완료";
+
+/* Class = "UILabel"; text = "서비스 이용 수수료"; ObjectID = "Hmf-X3-g7y"; */
+"Hmf-X3-g7y.text" = "서비스 이용 수수료";
+
+/* Class = "UILabel"; text = "대표전화"; ObjectID = "I0B-0i-obY"; */
+"I0B-0i-obY.text" = "대표전화";
+
+/* Class = "UILabel"; text = "사업장 연락처"; ObjectID = "I5v-e3-Gtt"; */
+"I5v-e3-Gtt.text" = "사업장 연락처";
+
+/* Class = "UILabel"; text = "상세주소"; ObjectID = "IQW-Jf-7rA"; */
+"IQW-Jf-7rA.text" = "상세주소";
+
+/* Class = "UILabel"; text = "서비스 제공회사 (갑)"; ObjectID = "Ih6-jS-Fe5"; */
+"Ih6-jS-Fe5.text" = "서비스 제공회사 (갑)";
+
+/* Class = "UILabel"; text = "고객님의 아이디는 test입니다"; ObjectID = "Ihl-n5-KMI"; */
+"Ihl-n5-KMI.text" = "고객님의 아이디는 test입니다";
+
+/* Class = "UINavigationItem"; title = "[개인] 계약서 작성"; ObjectID = "Ijy-ri-xGS"; */
+"Ijy-ri-xGS.title" = "[개인] 계약서 작성";
+
+/* Class = "UILabel"; text = "정산계좌 정보"; ObjectID = "Itr-bR-o68"; */
+"Itr-bR-o68.text" = "정산계좌 정보";
+
+/* Class = "UILabel"; text = "서 명 일"; ObjectID = "J88-uE-NRz"; */
+"J88-uE-NRz.text" = "서 명 일";
+
+/* Class = "UILabel"; text = "사업장 주소"; ObjectID = "JEE-Ly-ONx"; */
+"JEE-Ly-ONx.text" = "사업장 주소";
+
+/* Class = "UILabel"; text = "서비스 신청 정보"; ObjectID = "JS5-fx-3oE"; */
+"JS5-fx-3oE.text" = "서비스 신청 정보";
+
+/* Class = "UILabel"; text = "담 당 자"; ObjectID = "JXs-P8-ukc"; */
+"JXs-P8-ukc.text" = "담 당 자";
+
+/* Class = "UILabel"; text = "연락처"; ObjectID = "JlX-5S-I98"; */
+"JlX-5S-I98.text" = "연락처";
+
+/* Class = "UILabel"; text = "정보를 정확하게 입력해 주십시오."; ObjectID = "JnQ-po-VFb"; */
+"JnQ-po-VFb.text" = "정보를 정확하게 입력해 주십시오.";
+
+/* Class = "UITextField"; placeholder = "서명이 필요합니다"; ObjectID = "JpF-7d-RsR"; */
+"JpF-7d-RsR.placeholder" = "서명이 필요합니다";
+
+/* Class = "UILabel"; text = "예금주"; ObjectID = "Kjp-XB-4MY"; */
+"Kjp-XB-4MY.text" = "예금주";
+
+/* Class = "UIButton"; normalTitle = "다음"; ObjectID = "Ksw-pR-FVI"; */
+"Ksw-pR-FVI.normalTitle" = "다음";
+
+/* Class = "UINavigationItem"; title = "[사업자] 계약서 작성"; ObjectID = "L8q-mw-rYk"; */
+"L8q-mw-rYk.title" = "[사업자] 계약서 작성";
+
+/* Class = "UILabel"; text = "고객님의 비밀번호가 변경되었습니다"; ObjectID = "LAD-AF-UL4"; */
+"LAD-AF-UL4.text" = "고객님의 비밀번호가 변경되었습니다";
+
+/* Class = "UINavigationItem"; title = "[개인] 계약서 작성"; ObjectID = "LvG-MV-YgZ"; */
+"LvG-MV-YgZ.title" = "[개인] 계약서 작성";
+
+/* Class = "UIButton"; highlightedTitle = " 법인"; ObjectID = "MJA-1p-n30"; */
+"MJA-1p-n30.highlightedTitle" = " 법인";
+
+/* Class = "UIButton"; normalTitle = " 법인"; ObjectID = "MJA-1p-n30"; */
+"MJA-1p-n30.normalTitle" = " 법인";
+
+/* Class = "UIButton"; selectedTitle = " 법인"; ObjectID = "MJA-1p-n30"; */
+"MJA-1p-n30.selectedTitle" = " 법인";
+
+/* Class = "UIButton"; normalTitle = "사진첩 열기"; ObjectID = "Max-6t-nh1"; */
+"Max-6t-nh1.normalTitle" = "사진첩 열기";
+
+/* Class = "UIButton"; normalTitle = "로그인"; ObjectID = "MgY-r0-d3V"; */
+"MgY-r0-d3V.normalTitle" = "로그인";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "N9B-N6-6zr"; */
+"N9B-N6-6zr.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "다음"; ObjectID = "NCc-uN-bdj"; */
+"NCc-uN-bdj.normalTitle" = "다음";
+
+/* Class = "UILabel"; text = "서비스 구분"; ObjectID = "NLR-Nd-Dh5"; */
+"NLR-Nd-Dh5.text" = "서비스 구분";
+
+/* Class = "UITextField"; placeholder = "휴대폰번호(-없이 입력)"; ObjectID = "NY4-tC-adU"; */
+"NY4-tC-adU.placeholder" = "휴대폰번호(-없이 입력)";
+
+/* Class = "UILabel"; text = "은행명"; ObjectID = "Na8-pn-ShJ"; */
+"Na8-pn-ShJ.text" = "은행명";
+
+/* Class = "UILabel"; text = "신분증 첨부"; ObjectID = "Nnb-M6-Jf3"; */
+"Nnb-M6-Jf3.text" = "신분증 첨부";
+
+/* Class = "UIButton"; normalTitle = "은행명 선택"; ObjectID = "NpN-uw-X5F"; */
+"NpN-uw-X5F.normalTitle" = "은행명 선택";
+
+/* Class = "UILabel"; text = "서비스 이용 수수료"; ObjectID = "NqJ-dM-1zb"; */
+"NqJ-dM-1zb.text" = "서비스 이용 수수료";
+
+/* Class = "UITextField"; placeholder = "계좌번호(-없이 입력)"; ObjectID = "NvG-B3-Aqi"; */
+"NvG-B3-Aqi.placeholder" = "계좌번호(-없이 입력)";
+
+/* Class = "UILabel"; text = "정보수정 완료"; ObjectID = "O7o-b2-ezO"; */
+"O7o-b2-ezO.text" = "정보수정 완료";
+
+/* Class = "UIButton"; normalTitle = "확인"; ObjectID = "Okp-H7-Ysv"; */
+"Okp-H7-Ysv.normalTitle" = "확인";
+
+/* Class = "UILabel"; text = "계약서 작성을 위해서는 로그인이 필요합니다"; ObjectID = "Ozg-GQ-Loz"; */
+"Ozg-GQ-Loz.text" = "계약서 작성을 위해서는 로그인이 필요합니다";
+
+/* Class = "UILabel"; text = "사업자 등록증 첨부"; ObjectID = "PRI-hG-1l5"; */
+"PRI-hG-1l5.text" = "사업자 등록증 첨부";
+
+/* Class = "UILabel"; text = "계약서 작성을 위해서는 로그인이 필요합니다"; ObjectID = "PUP-73-obd"; */
+"PUP-73-obd.text" = "계약서 작성을 위해서는 로그인이 필요합니다";
+
+/* Class = "UILabel"; text = "상호명"; ObjectID = "Pio-fo-uO0"; */
+"Pio-fo-uO0.text" = "상호명";
+
+/* Class = "UITextField"; placeholder = "서명이 필요합니다"; ObjectID = "Pkl-7Y-CkH"; */
+"Pkl-7Y-CkH.placeholder" = "서명이 필요합니다";
+
+/* Class = "UILabel"; text = "정산주기"; ObjectID = "PyU-Md-3y5"; */
+"PyU-Md-3y5.text" = "정산주기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PzA-xp-Pm4"; */
+"PzA-xp-Pm4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "업태"; ObjectID = "Q7x-eT-RbI"; */
+"Q7x-eT-RbI.text" = "업태";
+
+/* Class = "UILabel"; text = "정산주기"; ObjectID = "QCS-Y3-peu"; */
+"QCS-Y3-peu.text" = "정산주기";
+
+/* Class = "UILabel"; text = "주민등록번호"; ObjectID = "QIF-aP-8Gs"; */
+"QIF-aP-8Gs.text" = "주민등록번호";
+
+/* Class = "UILabel"; text = "개인간 거래 신청자 (을)"; ObjectID = "QT6-in-ZPq"; */
+"QT6-in-ZPq.text" = "개인간 거래 신청자 (을)";
+
+/* Class = "UILabel"; text = "계좌번호"; ObjectID = "Qml-sN-isv"; */
+"Qml-sN-isv.text" = "계좌번호";
+
+/* Class = "UILabel"; text = "첨부서류"; ObjectID = "RaT-FI-CyF"; */
+"RaT-FI-CyF.text" = "첨부서류";
+
+/* Class = "UILabel"; text = "사업자 구분"; ObjectID = "RwC-YD-tgG"; */
+"RwC-YD-tgG.text" = "사업자 구분";
+
+/* Class = "UITextField"; placeholder = "실명을 입력해주세요"; ObjectID = "S6Q-62-1a6"; */
+"S6Q-62-1a6.placeholder" = "실명을 입력해주세요";
+
+/* Class = "UILabel"; text = "결제수단"; ObjectID = "SFM-M8-Caw"; */
+"SFM-M8-Caw.text" = "결제수단";
+
+/* Class = "UIButton"; highlightedTitle = " 개인"; ObjectID = "SK0-K2-cZ6"; */
+"SK0-K2-cZ6.highlightedTitle" = " 개인";
+
+/* Class = "UIButton"; normalTitle = " 개인"; ObjectID = "SK0-K2-cZ6"; */
+"SK0-K2-cZ6.normalTitle" = " 개인";
+
+/* Class = "UIButton"; selectedTitle = " 개인"; ObjectID = "SK0-K2-cZ6"; */
+"SK0-K2-cZ6.selectedTitle" = " 개인";
+
+/* Class = "UITextField"; placeholder = "연락처(-없이 입력)"; ObjectID = "TIC-ed-Fv2"; */
+"TIC-ed-Fv2.placeholder" = "연락처(-없이 입력)";
+
+/* Class = "UILabel"; text = "서 명 일"; ObjectID = "TRl-Eu-Lyd"; */
+"TRl-Eu-Lyd.text" = "서 명 일";
+
+/* Class = "UILabel"; text = "님, 환영합니다"; ObjectID = "TVZ-ax-yE2"; */
+"TVZ-ax-yE2.text" = "님, 환영합니다";
+
+/* Class = "UILabel"; text = "신청인"; ObjectID = "TXp-uX-CsR"; */
+"TXp-uX-CsR.text" = "신청인";
+
+/* Class = "UILabel"; text = "신분증 첨부"; ObjectID = "Tek-Y7-Whi"; */
+"Tek-Y7-Whi.text" = "신분증 첨부";
+
+/* Class = "UIButton"; normalTitle = "카메라 열기"; ObjectID = "Tiw-oN-pqf"; */
+"Tiw-oN-pqf.normalTitle" = "카메라 열기";
+
+/* Class = "UILabel"; text = "개인간 거래 신청자 (을)"; ObjectID = "TjY-Hb-33z"; */
+"TjY-Hb-33z.text" = "개인간 거래 신청자 (을)";
+
+/* Class = "UITextField"; placeholder = "서명이 필요합니다"; ObjectID = "U0R-FK-QWb"; */
+"U0R-FK-QWb.placeholder" = "서명이 필요합니다";
+
+/* Class = "UITextField"; placeholder = "업태"; ObjectID = "UAX-IN-mLA"; */
+"UAX-IN-mLA.placeholder" = "업태";
+
+/* Class = "UILabel"; text = "본인확인 휴대폰 번호로 인증"; ObjectID = "UNg-qO-ihB"; */
+"UNg-qO-ihB.text" = "본인확인 휴대폰 번호로 인증";
+
+/* Class = "UIButton"; normalTitle = "   모두 확인하였으며 동의합니다."; ObjectID = "UUd-ez-VLG"; */
+"UUd-ez-VLG.normalTitle" = "   모두 확인하였으며 동의합니다.";
+
+/* Class = "UIButton"; selectedTitle = "   모두 확인하였으며 동의합니다."; ObjectID = "UUd-ez-VLG"; */
+"UUd-ez-VLG.selectedTitle" = "   모두 확인하였으며 동의합니다.";
+
+/* Class = "UITextField"; placeholder = "휴대폰번호(-없이 입력)"; ObjectID = "UUk-1K-zR4"; */
+"UUk-1K-zR4.placeholder" = "휴대폰번호(-없이 입력)";
+
+/* Class = "UILabel"; text = "대표자 성명"; ObjectID = "Ujx-oo-kcG"; */
+"Ujx-oo-kcG.text" = "대표자 성명";
+
+/* Class = "UIButton"; normalTitle = "사업자 계약서"; ObjectID = "UrR-jw-mwp"; */
+"UrR-jw-mwp.normalTitle" = "사업자 계약서";
+
+/* Class = "UIButton"; normalTitle = "다음"; ObjectID = "V3A-6S-aG3"; */
+"V3A-6S-aG3.normalTitle" = "다음";
+
+/* Class = "UILabel"; text = "상호명"; ObjectID = "VF5-hx-PdC"; */
+"VF5-hx-PdC.text" = "상호명";
+
+/* Class = "UITextField"; placeholder = "기본주소"; ObjectID = "VV0-C2-8Tw"; */
+"VV0-C2-8Tw.placeholder" = "기본주소";
+
+/* Class = "UILabel"; text = "서비스 구분"; ObjectID = "W0I-b5-qeo"; */
+"W0I-b5-qeo.text" = "서비스 구분";
+
+/* Class = "UILabel"; text = "통장사본"; ObjectID = "WFe-DF-kZk"; */
+"WFe-DF-kZk.text" = "통장사본";
+
+/* Class = "UITextField"; placeholder = "대표자 연락처(-없이 입력)"; ObjectID = "WLO-Zw-eL0"; */
+"WLO-Zw-eL0.placeholder" = "대표자 연락처(-없이 입력)";
+
+/* Class = "UILabel"; text = "대표자 성명"; ObjectID = "WOP-Cv-jqZ"; */
+"WOP-Cv-jqZ.text" = "대표자 성명";
+
+/* Class = "UITextField"; placeholder = "이름"; ObjectID = "Wja-Xt-KW2"; */
+"Wja-Xt-KW2.placeholder" = "이름";
+
+/* Class = "UINavigationItem"; title = "나의 계약서"; ObjectID = "WnL-yD-6YD"; */
+"WnL-yD-6YD.title" = "나의 계약서";
+
+/* Class = "UIButton"; normalTitle = "로그인"; ObjectID = "X67-6r-TbA"; */
+"X67-6r-TbA.normalTitle" = "로그인";
+
+/* Class = "UILabel"; text = "신 청 인"; ObjectID = "XLX-rO-lrX"; */
+"XLX-rO-lrX.text" = "신 청 인";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XSo-vA-aKk"; */
+"XSo-vA-aKk.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "   이용약관 동의 [필수]"; ObjectID = "Xaa-XI-iUE"; */
+"Xaa-XI-iUE.normalTitle" = "   이용약관 동의 [필수]";
+
+/* Class = "UIButton"; selectedTitle = "   이용약관 동의 [필수]"; ObjectID = "Xaa-XI-iUE"; */
+"Xaa-XI-iUE.selectedTitle" = "   이용약관 동의 [필수]";
+
+/* Class = "UILabel"; text = "서비스 이용 수수료"; ObjectID = "Xaw-JM-w14"; */
+"Xaw-JM-w14.text" = "서비스 이용 수수료";
+
+/* Class = "UITextField"; placeholder = "상세주소"; ObjectID = "Xlb-gm-jsP"; */
+"Xlb-gm-jsP.placeholder" = "상세주소";
+
+/* Class = "UIViewController"; title = "LoginViewController"; ObjectID = "Xn8-zp-oS2"; */
+"Xn8-zp-oS2.title" = "LoginViewController";
+
+/* Class = "UILabel"; text = "통장사본 첨부"; ObjectID = "Xnz-sq-U8l"; */
+"Xnz-sq-U8l.text" = "통장사본 첨부";
+
+/* Class = "UITextField"; placeholder = "비밀번호 (4~12자 이내)"; ObjectID = "Xpa-uY-B7w"; */
+"Xpa-uY-B7w.placeholder" = "비밀번호 (4~12자 이내)";
+
+/* Class = "UIButton"; normalTitle = "사진첩 열기"; ObjectID = "XvQ-7x-CGl"; */
+"XvQ-7x-CGl.normalTitle" = "사진첩 열기";
+
+/* Class = "UITextField"; placeholder = "인증번호 입력"; ObjectID = "Y20-S3-0Sc"; */
+"Y20-S3-0Sc.placeholder" = "인증번호 입력";
+
+/* Class = "UINavigationItem"; title = "나의 계약서"; ObjectID = "Y9a-3B-gml"; */
+"Y9a-3B-gml.title" = "나의 계약서";
+
+/* Class = "UIButton"; normalTitle = "비밀번호 찾기"; ObjectID = "YCn-cN-Y7F"; */
+"YCn-cN-Y7F.normalTitle" = "비밀번호 찾기";
+
+/* Class = "UILabel"; text = "종목"; ObjectID = "YUA-cI-kLG"; */
+"YUA-cI-kLG.text" = "종목";
+
+/* Class = "UILabel"; text = "반갑습니다"; ObjectID = "YZw-Vo-qgj"; */
+"YZw-Vo-qgj.text" = "반갑습니다";
+
+/* Class = "UINavigationItem"; title = "비밀번호 변경 완료"; ObjectID = "Ye3-l8-yIR"; */
+"Ye3-l8-yIR.title" = "비밀번호 변경 완료";
+
+/* Class = "UITextField"; placeholder = "사업장 주소"; ObjectID = "Yue-sq-RtW"; */
+"Yue-sq-RtW.placeholder" = "사업장 주소";
+
+/* Class = "UINavigationItem"; title = "나의 계약서"; ObjectID = "ZFZ-Zh-9lZ"; */
+"ZFZ-Zh-9lZ.title" = "나의 계약서";
+
+/* Class = "UILabel"; text = "신 청 인"; ObjectID = "ZOz-3l-avA"; */
+"ZOz-3l-avA.text" = "신 청 인";
+
+/* Class = "UILabel"; text = "서비스 제공회사 (갑)"; ObjectID = "ZiB-14-rRx"; */
+"ZiB-14-rRx.text" = "서비스 제공회사 (갑)";
+
+/* Class = "UILabel"; text = "회원님의 소중한 정보보호를 위해 비밀번호를 재확인하고 있습니다"; ObjectID = "Znx-XJ-BOq"; */
+"Znx-XJ-BOq.text" = "회원님의 소중한 정보보호를 위해 비밀번호를 재확인하고 있습니다";
+
+/* Class = "UILabel"; text = "상호명"; ObjectID = "Zz0-sI-RxZ"; */
+"Zz0-sI-RxZ.text" = "상호명";
+
+/* Class = "UILabel"; text = "사업자 구분"; ObjectID = "aXI-JJ-LFr"; */
+"aXI-JJ-LFr.text" = "사업자 구분";
+
+/* Class = "UILabel"; text = "첨부서류"; ObjectID = "ac4-PP-Lg3"; */
+"ac4-PP-Lg3.text" = "첨부서류";
+
+/* Class = "UILabel"; text = "계약서를 작성하시겠습니까?"; ObjectID = "ac8-3d-rkh"; */
+"ac8-3d-rkh.text" = "계약서를 작성하시겠습니까?";
+
+/* Class = "UILabel"; text = "아이디"; ObjectID = "ace-Lc-OLi"; */
+"ace-Lc-OLi.text" = "아이디";
+
+/* Class = "UITextField"; placeholder = "휴대폰번호(-없이 입력)"; ObjectID = "adO-84-0tT"; */
+"adO-84-0tT.placeholder" = "휴대폰번호(-없이 입력)";
+
+/* Class = "UITextField"; placeholder = "새 비밀번호 확인"; ObjectID = "ajd-XQ-zre"; */
+"ajd-XQ-zre.placeholder" = "새 비밀번호 확인";
+
+/* Class = "UITextField"; placeholder = "대표자 세금계산서(E-mail)"; ObjectID = "akz-Q0-7Y0"; */
+"akz-Q0-7Y0.placeholder" = "대표자 세금계산서(E-mail)";
+
+/* Class = "UITextField"; placeholder = "서명이 필요합니다"; ObjectID = "b3K-9V-cmZ"; */
+"b3K-9V-cmZ.placeholder" = "서명이 필요합니다";
+
+/* Class = "UILabel"; text = "정산주기"; ObjectID = "bNa-r2-xat"; */
+"bNa-r2-xat.text" = "정산주기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bNb-Mo-CPx"; */
+"bNb-Mo-CPx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "개인간 거래 신청자 (을)"; ObjectID = "bSy-VD-ine"; */
+"bSy-VD-ine.text" = "개인간 거래 신청자 (을)";
+
+/* Class = "UILabel"; text = "정산계좌정보"; ObjectID = "bUf-gn-JO4"; */
+"bUf-gn-JO4.text" = "정산계좌정보";
+
+/* Class = "UILabel"; text = "가맹점 기본 정보"; ObjectID = "bWZ-ma-T4T"; */
+"bWZ-ma-T4T.text" = "가맹점 기본 정보";
+
+/* Class = "UILabel"; text = "전자계약서! 이제 스마트하게 관리하세요~"; ObjectID = "bdd-fM-TJm"; */
+"bdd-fM-TJm.text" = "전자계약서! 이제 스마트하게 관리하세요~";
+
+/* Class = "UILabel"; text = "새 비밀번호로 변경하기"; ObjectID = "bvA-nf-f37"; */
+"bvA-nf-f37.text" = "새 비밀번호로 변경하기";
+
+/* Class = "UITextField"; placeholder = "비밀번호"; ObjectID = "c99-Rt-08n"; */
+"c99-Rt-08n.placeholder" = "비밀번호";
+
+/* Class = "UILabel"; text = "담 당 자"; ObjectID = "cSX-tT-5vE"; */
+"cSX-tT-5vE.text" = "담 당 자";
+
+/* Class = "UILabel"; text = "신 청 인"; ObjectID = "ce7-5B-Bhc"; */
+"ce7-5B-Bhc.text" = "신 청 인";
+
+/* Class = "UILabel"; text = "정산계좌정보"; ObjectID = "czT-1V-ZAj"; */
+"czT-1V-ZAj.text" = "정산계좌정보";
+
+/* Class = "UILabel"; text = "이름"; ObjectID = "dWo-XA-LiG"; */
+"dWo-XA-LiG.text" = "이름";
+
+/* Class = "UILabel"; text = "아이디"; ObjectID = "eBk-EL-3lE"; */
+"eBk-EL-3lE.text" = "아이디";
+
+/* Class = "UILabel"; text = "상호명"; ObjectID = "eXf-w4-ByG"; */
+"eXf-w4-ByG.text" = "상호명";
+
+/* Class = "UITextView"; text = "※ 상기 정산계좌가 본인의 개인상 사정으로 인하여 위임계좌일 경우(상기 계좌로 본인의 인건비 및 각종 수당을 지급하여 주시기를 신청합니다.) 이와 관련된 세금을 책임질 것을 확약하며, 본 신청서를 제출합니다."; ObjectID = "ejm-Mi-m8S"; */
+"ejm-Mi-m8S.text" = "※ 상기 정산계좌가 본인의 개인상 사정으로 인하여 위임계좌일 경우(상기 계좌로 본인의 인건비 및 각종 수당을 지급하여 주시기를 신청합니다.) 이와 관련된 세금을 책임질 것을 확약하며, 본 신청서를 제출합니다.";
+
+/* Class = "UILabel"; text = "아이디"; ObjectID = "emU-9U-YmH"; */
+"emU-9U-YmH.text" = "아이디";
+
+/* Class = "UITextView"; text = "※ 본 서비스는 여신전문금융업법 제 19조에 의거 결제대행업체에서 제공되는 전자지불대행서비스이며, 본계약으로 발생된 매출은 개인 간 거래 신청자('을')에게 매출 신고 및 납세의 의무가 있습니다.  ※ 개인 간 거래 신청자('을')는 본 서비스를 이용하여 매출누락 등 조세법 위반 시 위 계약은 자동 해지되며, 전표 유통, 현금유통, 카드깡 등 불법적으로 사용시 모든 손해배상 및 민·형사상의 책임이 있습니다."; ObjectID = "f6C-tN-SJa"; */
+"f6C-tN-SJa.text" = "※ 본 서비스는 여신전문금융업법 제 19조에 의거 결제대행업체에서 제공되는 전자지불대행서비스이며, 본계약으로 발생된 매출은 개인 간 거래 신청자('을')에게 매출 신고 및 납세의 의무가 있습니다.  ※ 개인 간 거래 신청자('을')는 본 서비스를 이용하여 매출누락 등 조세법 위반 시 위 계약은 자동 해지되며, 전표 유통, 현금유통, 카드깡 등 불법적으로 사용시 모든 손해배상 및 민·형사상의 책임이 있습니다.";
+
+/* Class = "UIButton"; normalTitle = "   마케팅 정보 동의 [선택]"; ObjectID = "fFH-Et-fjq"; */
+"fFH-Et-fjq.normalTitle" = "   마케팅 정보 동의 [선택]";
+
+/* Class = "UIButton"; selectedTitle = "   마케팅 정보 동의 [선택]"; ObjectID = "fFH-Et-fjq"; */
+"fFH-Et-fjq.selectedTitle" = "   마케팅 정보 동의 [선택]";
+
+/* Class = "UILabel"; text = "첨부서류 [필수]"; ObjectID = "fJX-N7-A3i"; */
+"fJX-N7-A3i.text" = "첨부서류 [필수]";
+
+/* Class = "UILabel"; text = "회사명"; ObjectID = "fMB-BJ-FPe"; */
+"fMB-BJ-FPe.text" = "회사명";
+
+/* Class = "UIButton"; normalTitle = "로그인"; ObjectID = "fQJ-Ql-CGt"; */
+"fQJ-Ql-CGt.normalTitle" = "로그인";
+
+/* Class = "UIButton"; normalTitle = "은행명 선택"; ObjectID = "fSp-gn-9DN"; */
+"fSp-gn-9DN.normalTitle" = "은행명 선택";
+
+/* Class = "UINavigationItem"; title = "[사업자] 계약서 작성"; ObjectID = "fVk-GS-zB0"; */
+"fVk-GS-zB0.title" = "[사업자] 계약서 작성";
+
+/* Class = "UILabel"; text = "[가맹점/개인정보 수집, 이용에 관한 사항]"; ObjectID = "fc9-W8-v0T"; */
+"fc9-W8-v0T.text" = "[가맹점/개인정보 수집, 이용에 관한 사항]";
+
+/* Class = "UILabel"; text = "[가맹점/개인정보 제공에 관한 사항]"; ObjectID = "fdL-N9-Dfv"; */
+"fdL-N9-Dfv.text" = "[가맹점/개인정보 제공에 관한 사항]";
+
+/* Class = "UILabel"; text = "아이디 찾기 완료"; ObjectID = "feb-Hu-2Zl"; */
+"feb-Hu-2Zl.text" = "아이디 찾기 완료";
+
+/* Class = "UILabel"; text = "[가맹점/개인정보 제공에 관한 사항]"; ObjectID = "g0V-cv-Ogh"; */
+"g0V-cv-Ogh.text" = "[가맹점/개인정보 제공에 관한 사항]";
+
+/* Class = "UIButton"; normalTitle = "주소 검색"; ObjectID = "g5g-pZ-lxE"; */
+"g5g-pZ-lxE.normalTitle" = "주소 검색";
+
+/* Class = "UITextField"; placeholder = "대표자 성명"; ObjectID = "gJn-Qy-jPX"; */
+"gJn-Qy-jPX.placeholder" = "대표자 성명";
+
+/* Class = "UIButton"; normalTitle = "카메라 열기"; ObjectID = "gNN-98-hrw"; */
+"gNN-98-hrw.normalTitle" = "카메라 열기";
+
+/* Class = "UILabel"; text = "업태"; ObjectID = "gbO-s2-Qxf"; */
+"gbO-s2-Qxf.text" = "업태";
+
+/* Class = "UINavigationItem"; title = "[사업자] 계약서 작성"; ObjectID = "gqO-LU-XIe"; */
+"gqO-LU-XIe.title" = "[사업자] 계약서 작성";
+
+/* Class = "UILabel"; text = "세금계산서(E-mail)"; ObjectID = "gzK-pM-68J"; */
+"gzK-pM-68J.text" = "세금계산서(E-mail)";
+
+/* Class = "UITextView"; text = "※ 상기 정산계좌가 본인의 개인상 사정으로 위임 계좌일 경우 이와 관련한  세금을 책임질것을 확약하며, 본 신청서를 제출합니다.  (상기 계좌로 본인의 인건비 및 각종 수당을 지급하여 주시기를 신청합니다.)"; ObjectID = "hEl-1u-Ul5"; */
+"hEl-1u-Ul5.text" = "※ 상기 정산계좌가 본인의 개인상 사정으로 위임 계좌일 경우 이와 관련한  세금을 책임질것을 확약하며, 본 신청서를 제출합니다.  (상기 계좌로 본인의 인건비 및 각종 수당을 지급하여 주시기를 신청합니다.)";
+
+/* Class = "UILabel"; text = "사업자 등록증"; ObjectID = "hdb-Ts-Cuv"; */
+"hdb-Ts-Cuv.text" = "사업자 등록증";
+
+/* Class = "UITextField"; placeholder = "상세주소"; ObjectID = "hfd-hC-RFB"; */
+"hfd-hC-RFB.placeholder" = "상세주소";
+
+/* Class = "UIButton"; normalTitle = "사업자 계약서 작성"; ObjectID = "hjI-8I-l0e"; */
+"hjI-8I-l0e.normalTitle" = "사업자 계약서 작성";
+
+/* Class = "UILabel"; text = "회원가입 완료"; ObjectID = "hjn-lc-Lbx"; */
+"hjn-lc-Lbx.text" = "회원가입 완료";
+
+/* Class = "UILabel"; text = "결제 수단(중복선택가능)"; ObjectID = "iFG-TZ-VFu"; */
+"iFG-TZ-VFu.text" = "결제 수단(중복선택가능)";
+
+/* Class = "UILabel"; text = "서 명 일"; ObjectID = "iH5-uV-iib"; */
+"iH5-uV-iib.text" = "서 명 일";
+
+/* Class = "UILabel"; text = "서비스 신청 정보"; ObjectID = "iII-DZ-Ghm"; */
+"iII-DZ-Ghm.text" = "서비스 신청 정보";
+
+/* Class = "UILabel"; text = "송금의뢰 수수료(500원 발생)"; ObjectID = "itg-UX-Ydr"; */
+"itg-UX-Ydr.text" = "송금의뢰 수수료(500원 발생)";
+
+/* Class = "UIButton"; normalTitle = "개인 계약서"; ObjectID = "iwu-KP-2z3"; */
+"iwu-KP-2z3.normalTitle" = "개인 계약서";
+
+/* Class = "UILabel"; text = "사업자등록번호"; ObjectID = "jRW-3j-Tbx"; */
+"jRW-3j-Tbx.text" = "사업자등록번호";
+
+/* Class = "UIButton"; normalTitle = "주소 검색"; ObjectID = "jf0-yG-u9a"; */
+"jf0-yG-u9a.normalTitle" = "주소 검색";
+
+/* Class = "UINavigationItem"; title = "[사업자] 계약서 작성"; ObjectID = "jvI-CB-yzZ"; */
+"jvI-CB-yzZ.title" = "[사업자] 계약서 작성";
+
+/* Class = "UILabel"; text = "정산계좌정보"; ObjectID = "k8b-sB-rIA"; */
+"k8b-sB-rIA.text" = "정산계좌정보";
+
+/* Class = "UITextView"; text = "※ 상기 정산계좌가 본인의 개인상 사정으로 인하여 위임계좌일 경우(상기 계좌로 본인의 인건비 및 각종 수당을 지급하여 주시기를 신청합니다.) 이와 관련된 세금을 책임질 것을 확약하며, 본 신청서를 제출합니다."; ObjectID = "kSv-Ye-wKs"; */
+"kSv-Ye-wKs.text" = "※ 상기 정산계좌가 본인의 개인상 사정으로 인하여 위임계좌일 경우(상기 계좌로 본인의 인건비 및 각종 수당을 지급하여 주시기를 신청합니다.) 이와 관련된 세금을 책임질 것을 확약하며, 본 신청서를 제출합니다.";
+
+/* Class = "UITextField"; placeholder = "종목"; ObjectID = "kWb-Jp-ebY"; */
+"kWb-Jp-ebY.placeholder" = "종목";
+
+/* Class = "UILabel"; text = "첨부서류"; ObjectID = "kvm-wj-qgC"; */
+"kvm-wj-qgC.text" = "첨부서류";
+
+/* Class = "UITextField"; placeholder = "실명을 입력해주세요"; ObjectID = "l3J-JB-EgV"; */
+"l3J-JB-EgV.placeholder" = "실명을 입력해주세요";
+
+/* Class = "UILabel"; text = "정산주기"; ObjectID = "lDl-aX-vMX"; */
+"lDl-aX-vMX.text" = "정산주기";
+
+/* Class = "UILabel"; text = "결제수단"; ObjectID = "lUy-YM-yjW"; */
+"lUy-YM-yjW.text" = "결제수단";
+
+/* Class = "UILabel"; text = "서명일"; ObjectID = "lZ9-O7-Nvs"; */
+"lZ9-O7-Nvs.text" = "서명일";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lbO-ce-DKx"; */
+"lbO-ce-DKx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "은행명"; ObjectID = "leq-Lo-JEM"; */
+"leq-Lo-JEM.text" = "은행명";
+
+/* Class = "UITextView"; text = "※ 본 서비스는 여신전문금융업법 제 19조에 의거 결제대행업체에서 제공되는 전자지불대행서비스이며, 본계약으로 발생된 매출은 개인 간 거래 신청자('을')에게 매출 신고 및 납세의 의무가 있습니다.  ※ 개인 간 거래 신청자('을')는 본 서비스를 이용하여 매출누락 등 조세법 위반 시 위 계약은 자동 해지되며, 전표 유통, 현금유통, 카드깡 등 불법적으로 사용시 모든 손해배상 및 민·형사상의 책임이 있습니다."; ObjectID = "lr1-LD-Yr8"; */
+"lr1-LD-Yr8.text" = "※ 본 서비스는 여신전문금융업법 제 19조에 의거 결제대행업체에서 제공되는 전자지불대행서비스이며, 본계약으로 발생된 매출은 개인 간 거래 신청자('을')에게 매출 신고 및 납세의 의무가 있습니다.  ※ 개인 간 거래 신청자('을')는 본 서비스를 이용하여 매출누락 등 조세법 위반 시 위 계약은 자동 해지되며, 전표 유통, 현금유통, 카드깡 등 불법적으로 사용시 모든 손해배상 및 민·형사상의 책임이 있습니다.";
+
+/* Class = "UILabel"; text = "서비스 이용을 위해 개인정보 수집 및 이용에 동의해주세요."; ObjectID = "lu6-qq-HqJ"; */
+"lu6-qq-HqJ.text" = "서비스 이용을 위해 개인정보 수집 및 이용에 동의해주세요.";
+
+/* Class = "UITextField"; placeholder = "서명이 필요합니다"; ObjectID = "mMp-kJ-QI8"; */
+"mMp-kJ-QI8.placeholder" = "서명이 필요합니다";
+
+/* Class = "UILabel"; text = "예금주"; ObjectID = "mRA-lD-zN0"; */
+"mRA-lD-zN0.text" = "예금주";
+
+/* Class = "UINavigationItem"; title = "우편번호검색"; ObjectID = "mXa-Qm-Ft5"; */
+"mXa-Qm-Ft5.title" = "우편번호검색";
+
+/* Class = "UINavigationItem"; title = "약관 설명서"; ObjectID = "maB-2s-Bbl"; */
+"maB-2s-Bbl.title" = "약관 설명서";
+
+/* Class = "UIButton"; normalTitle = "메인으로"; ObjectID = "mdT-Q2-8wO"; */
+"mdT-Q2-8wO.normalTitle" = "메인으로";
+
+/* Class = "UIButton"; normalTitle = "   개인정보 수집 및 이용동의 [필수]"; ObjectID = "miB-za-zB7"; */
+"miB-za-zB7.normalTitle" = "   개인정보 수집 및 이용동의 [필수]";
+
+/* Class = "UIButton"; selectedTitle = "   개인정보 수집 및 이용동의 [필수]"; ObjectID = "miB-za-zB7"; */
+"miB-za-zB7.selectedTitle" = "   개인정보 수집 및 이용동의 [필수]";
+
+/* Class = "UINavigationItem"; title = "아이디 찾기 완료"; ObjectID = "mwt-CS-yQG"; */
+"mwt-CS-yQG.title" = "아이디 찾기 완료";
+
+/* Class = "UILabel"; text = "변경할 비밀번호를 입력해 주십시오."; ObjectID = "n8B-cb-3z2"; */
+"n8B-cb-3z2.text" = "변경할 비밀번호를 입력해 주십시오.";
+
+/* Class = "UILabel"; text = "정산주기"; ObjectID = "n8R-2L-pCB"; */
+"n8R-2L-pCB.text" = "정산주기";
+
+/* Class = "UILabel"; text = "님, 환영합니다"; ObjectID = "nR2-9Y-YaU"; */
+"nR2-9Y-YaU.text" = "님, 환영합니다";
+
+/* Class = "UILabel"; text = "종목"; ObjectID = "nRH-ur-Okq"; */
+"nRH-ur-Okq.text" = "종목";
+
+/* Class = "UILabel"; text = "서 명 일"; ObjectID = "nY7-rm-5lN"; */
+"nY7-rm-5lN.text" = "서 명 일";
+
+/* Class = "UILabel"; text = "회사명"; ObjectID = "nbb-A5-d9M"; */
+"nbb-A5-d9M.text" = "회사명";
+
+/* Class = "UILabel"; text = "첨부서류 [필수]"; ObjectID = "nh4-SR-sHv"; */
+"nh4-SR-sHv.text" = "첨부서류 [필수]";
+
+/* Class = "UILabel"; text = "신분증"; ObjectID = "noU-8a-yQz"; */
+"noU-8a-yQz.text" = "신분증";
+
+/* Class = "UIButton"; normalTitle = "아이디 찾기"; ObjectID = "nzH-56-xpH"; */
+"nzH-56-xpH.normalTitle" = "아이디 찾기";
+
+/* Class = "UILabel"; text = "아이디"; ObjectID = "oBi-SX-NN8"; */
+"oBi-SX-NN8.text" = "아이디";
+
+/* Class = "UILabel"; text = "서비스 구분"; ObjectID = "oHX-tG-s3P"; */
+"oHX-tG-s3P.text" = "서비스 구분";
+
+/* Class = "UILabel"; text = "주민등록번호"; ObjectID = "oR3-YN-Hbv"; */
+"oR3-YN-Hbv.text" = "주민등록번호";
+
+/* Class = "UIButton"; normalTitle = "인증번호전송"; ObjectID = "obS-oz-OZK"; */
+"obS-oz-OZK.normalTitle" = "인증번호전송";
+
+/* Class = "UILabel"; text = "사업자 등록증"; ObjectID = "ocN-Wk-gDH"; */
+"ocN-Wk-gDH.text" = "사업자 등록증";
+
+/* Class = "UILabel"; text = "통장사본"; ObjectID = "oo4-sG-a2t"; */
+"oo4-sG-a2t.text" = "통장사본";
+
+/* Class = "UIButton"; normalTitle = "나의 정보"; ObjectID = "ozv-hA-1GQ"; */
+"ozv-hA-1GQ.normalTitle" = "나의 정보";
+
+/* Class = "UIButton"; normalTitle = "다음"; ObjectID = "p8k-2I-G4a"; */
+"p8k-2I-G4a.normalTitle" = "다음";
+
+/* Class = "UIButton"; normalTitle = "인증번호 전송"; ObjectID = "pKl-8p-n8z"; */
+"pKl-8p-n8z.normalTitle" = "인증번호 전송";
+
+/* Class = "UITextField"; placeholder = "새 비밀번호(4~12자 이내)"; ObjectID = "pdf-Qj-DdC"; */
+"pdf-Qj-DdC.placeholder" = "새 비밀번호(4~12자 이내)";
+
+/* Class = "UITextField"; placeholder = "아이디"; ObjectID = "poK-dD-hiF"; */
+"poK-dD-hiF.placeholder" = "아이디";
+
+/* Class = "UITextField"; placeholder = "기본주소"; ObjectID = "q0G-qK-NeY"; */
+"q0G-qK-NeY.placeholder" = "기본주소";
+
+/* Class = "UILabel"; text = "송금의뢰 수수료 (500원 발생)"; ObjectID = "qCV-fM-ZtA"; */
+"qCV-fM-ZtA.text" = "송금의뢰 수수료 (500원 발생)";
+
+/* Class = "UITextField"; placeholder = "이메일"; ObjectID = "qFC-Rw-x8V"; */
+"qFC-Rw-x8V.placeholder" = "이메일";
+
+/* Class = "UIButton"; normalTitle = "사진첩 열기"; ObjectID = "r6T-W8-lYS"; */
+"r6T-W8-lYS.normalTitle" = "사진첩 열기";
+
+/* Class = "UIButton"; normalTitle = "   자동로그인"; ObjectID = "rK8-hR-0of"; */
+"rK8-hR-0of.normalTitle" = "   자동로그인";
+
+/* Class = "UINavigationItem"; title = "계약서 작성"; ObjectID = "rQf-42-QDq"; */
+"rQf-42-QDq.title" = "계약서 작성";
+
+/* Class = "UILabel"; text = "서비스 신청 정보"; ObjectID = "rfO-Hm-rzV"; */
+"rfO-Hm-rzV.text" = "서비스 신청 정보";
+
+/* Class = "UILabel"; text = "계좌번호"; ObjectID = "s1t-Pz-eMi"; */
+"s1t-Pz-eMi.text" = "계좌번호";
+
+/* Class = "UINavigationItem"; title = "비밀번호 찾기"; ObjectID = "s74-oY-sPz"; */
+"s74-oY-sPz.title" = "비밀번호 찾기";
+
+/* Class = "UILabel"; text = "예금주"; ObjectID = "sCh-GM-B0j"; */
+"sCh-GM-B0j.text" = "예금주";
+
+/* Class = "UINavigationItem"; title = "[개인] 계약서 작성"; ObjectID = "sNG-Kg-rpe"; */
+"sNG-Kg-rpe.title" = "[개인] 계약서 작성";
+
+/* Class = "UIButton"; normalTitle = "중복확인"; ObjectID = "sV7-up-7Zh"; */
+"sV7-up-7Zh.normalTitle" = "중복확인";
+
+/* Class = "UILabel"; text = "서명일"; ObjectID = "sZi-aF-VKY"; */
+"sZi-aF-VKY.text" = "서명일";
+
+/* Class = "UITextField"; placeholder = "상호명"; ObjectID = "seg-ut-23c"; */
+"seg-ut-23c.placeholder" = "상호명";
+
+/* Class = "UILabel"; text = "서비스 제공회사 (갑)"; ObjectID = "sh9-Wf-ies"; */
+"sh9-Wf-ies.text" = "서비스 제공회사 (갑)";
+
+/* Class = "UILabel"; text = "대표자 연락처"; ObjectID = "sn2-y0-7Go"; */
+"sn2-y0-7Go.text" = "대표자 연락처";
+
+/* Class = "UILabel"; text = "버튼을 누르면 정보 확인이 가능합니다"; ObjectID = "t17-va-Z5z"; */
+"t17-va-Z5z.text" = "버튼을 누르면 정보 확인이 가능합니다";
+
+/* Class = "UINavigationItem"; title = "개인정보수정"; ObjectID = "t24-sc-5Ya"; */
+"t24-sc-5Ya.title" = "개인정보수정";
+
+/* Class = "UITextField"; placeholder = "사업자번호(-제외)"; ObjectID = "tIZ-AX-DgG"; */
+"tIZ-AX-DgG.placeholder" = "사업자번호(-제외)";
+
+/* Class = "UITextField"; placeholder = "이메일"; ObjectID = "tSP-N4-6jx"; */
+"tSP-N4-6jx.placeholder" = "이메일";
+
+/* Class = "UILabel"; text = "가맹점 기본 정보"; ObjectID = "u3d-U2-sEM"; */
+"u3d-U2-sEM.text" = "가맹점 기본 정보";
+
+/* Class = "UILabel"; text = "대표전화"; ObjectID = "uF3-0d-b3Z"; */
+"uF3-0d-b3Z.text" = "대표전화";
+
+/* Class = "UITextField"; placeholder = "계좌번호(-없이 입력)"; ObjectID = "ubR-li-E2o"; */
+"ubR-li-E2o.placeholder" = "계좌번호(-없이 입력)";
+
+/* Class = "UILabel"; text = "사업장 연락처"; ObjectID = "umX-Jc-FQq"; */
+"umX-Jc-FQq.text" = "사업장 연락처";
+
+/* Class = "UITextField"; placeholder = "사업장 주소"; ObjectID = "uwK-Be-9CT"; */
+"uwK-Be-9CT.placeholder" = "사업장 주소";
+
+/* Class = "UILabel"; text = "신분증"; ObjectID = "v0O-0l-WrJ"; */
+"v0O-0l-WrJ.text" = "신분증";
+
+/* Class = "UILabel"; text = "통장사본"; ObjectID = "v2j-aK-Oz8"; */
+"v2j-aK-Oz8.text" = "통장사본";
+
+/* Class = "UILabel"; text = "담 당 자"; ObjectID = "v3J-Cc-YbQ"; */
+"v3J-Cc-YbQ.text" = "담 당 자";
+
+/* Class = "UINavigationItem"; title = "나의 정보"; ObjectID = "vVS-M1-zN4"; */
+"vVS-M1-zN4.title" = "나의 정보";
+
+/* Class = "UILabel"; text = "사업장주소"; ObjectID = "vk4-XK-1Ms"; */
+"vk4-XK-1Ms.text" = "사업장주소";
+
+/* Class = "UINavigationItem"; title = "[사업자] 계약서 작성"; ObjectID = "vvi-Qo-2j8"; */
+"vvi-Qo-2j8.title" = "[사업자] 계약서 작성";
+
+/* Class = "UINavigationItem"; title = "[개인] 계약서 작성"; ObjectID = "vvn-iy-LeW"; */
+"vvn-iy-LeW.title" = "[개인] 계약서 작성";
+
+/* Class = "UILabel"; text = "변경 정보를 정확하게 입력해 주십시오."; ObjectID = "vyo-jc-cyJ"; */
+"vyo-jc-cyJ.text" = "변경 정보를 정확하게 입력해 주십시오.";
+
+/* Class = "UILabel"; text = "결제 수단(중복선택가능)"; ObjectID = "w5P-yq-4wF"; */
+"w5P-yq-4wF.text" = "결제 수단(중복선택가능)";
+
+/* Class = "UILabel"; text = "결제수단"; ObjectID = "wjl-Za-Ufr"; */
+"wjl-Za-Ufr.text" = "결제수단";
+
+/* Class = "UILabel"; text = "상세주소"; ObjectID = "wvy-4n-WOX"; */
+"wvy-4n-WOX.text" = "상세주소";
+
+/* Class = "UIButton"; normalTitle = "다음"; ObjectID = "x40-Fg-TTS"; */
+"x40-Fg-TTS.normalTitle" = "다음";
+
+/* Class = "UILabel"; text = "예금주"; ObjectID = "x5s-eE-ed0"; */
+"x5s-eE-ed0.text" = "예금주";
+
+/* Class = "UILabel"; text = "비밀번호 재확인"; ObjectID = "xV9-vv-z2J"; */
+"xV9-vv-z2J.text" = "비밀번호 재확인";
+
+/* Class = "UITextField"; placeholder = "아이디"; ObjectID = "xXz-dU-bwg"; */
+"xXz-dU-bwg.placeholder" = "아이디";
+
+/* Class = "UIButton"; normalTitle = "개인 계약서 작성"; ObjectID = "y15-qF-aWw"; */
+"y15-qF-aWw.normalTitle" = "개인 계약서 작성";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yC1-6u-Ehd"; */
+"yC1-6u-Ehd.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "이름"; ObjectID = "yFz-St-t2j"; */
+"yFz-St-t2j.text" = "이름";
+
+/* Class = "UILabel"; text = "담 당 자"; ObjectID = "yHU-sR-bi6"; */
+"yHU-sR-bi6.text" = "담 당 자";
+
+/* Class = "UIButton"; normalTitle = "사진첩 열기"; ObjectID = "yLc-PE-k6o"; */
+"yLc-PE-k6o.normalTitle" = "사진첩 열기";
+
+/* Class = "UIButton"; normalTitle = "카메라 열기"; ObjectID = "yb0-lW-DEZ"; */
+"yb0-lW-DEZ.normalTitle" = "카메라 열기";
+
+/* Class = "UILabel"; text = "정산주기"; ObjectID = "yeU-W8-RKz"; */
+"yeU-W8-RKz.text" = "정산주기";
+
+/* Class = "UILabel"; text = "Winners Sign 회원가입이 완료되었습니다"; ObjectID = "yrA-7v-N7P"; */
+"yrA-7v-N7P.text" = "Winners Sign 회원가입이 완료되었습니다";
+
+/* Class = "UITextField"; placeholder = "아이디(4~12자 이내)"; ObjectID = "yrT-AE-g78"; */
+"yrT-AE-g78.placeholder" = "아이디(4~12자 이내)";
+
+/* Class = "UILabel"; text = "담당자"; ObjectID = "ywR-WW-VzT"; */
+"ywR-WW-VzT.text" = "담당자";
+
+/* Class = "UITextView"; text = "※ 본 가맹점은 여신전문금융업법 제19조의 규약을 준수합니다.  ※ 본 계약에 의거하여 발생된 매출의 신고 및 납세의무는 가맹점(신청인)에게 있으며 신청서 작성내용 및 이용약관을 숙지하고, 가입을 신청합니다."; ObjectID = "yyH-mr-upQ"; */
+"yyH-mr-upQ.text" = "※ 본 가맹점은 여신전문금융업법 제19조의 규약을 준수합니다.  ※ 본 계약에 의거하여 발생된 매출의 신고 및 납세의무는 가맹점(신청인)에게 있으며 신청서 작성내용 및 이용약관을 숙지하고, 가입을 신청합니다.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zhl-JE-g3R"; */
+"zhl-JE-g3R.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "새 비밀번호 확인"; ObjectID = "znz-a2-Ng1"; */
+"znz-a2-Ng1.placeholder" = "새 비밀번호 확인";
+
+/* Class = "UILabel"; text = "사업자등록번호"; ObjectID = "znz-mB-fGo"; */
+"znz-mB-fGo.text" = "사업자등록번호";
+
+/* Class = "UILabel"; text = "사업자 등록번호"; ObjectID = "ztb-NM-1xj"; */
+"ztb-NM-1xj.text" = "사업자 등록번호";
