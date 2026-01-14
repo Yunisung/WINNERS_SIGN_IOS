@@ -29,7 +29,7 @@
 ## 아키텍처
 UIKit 기반 MVC 구조에 서비스/매니저 레이어를 추가해 화면과 네트워크 코드를 분리합니다.
 
-```mermaid
+```
 flowchart TD
     User[사용자 입력] --> UI[ViewController / Storyboard]
     UI --> Manager[Manager 계층 (HttpsManager, DataManager, UIManager)]
